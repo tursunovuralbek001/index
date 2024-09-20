@@ -23,17 +23,7 @@
     <p>https://uralbek.uz/erovwbsyvjda.js</p>
 <button class="btn" onclick="copyContent()">Nusxa oling!</button>
 
-<script>
-  let text = document.getElementById('myText').innerHTML;
-  const copyContent = async () => {
-    try {
-      await navigator.clipboard.writeText(text);
-      console.log('Content copied to clipboard');
-    } catch (err) {
-      console.error('Failed to copy: ', err);
-    }
-  }
-</script>
+
     
     
     
@@ -69,11 +59,13 @@
 
 
 <script>
-// Text Copy
-function myFunction() {
-  var copyText = document.getElementById("myInput");
-  copyText.select();
-  copyText.setSelectionRange(0, 99999);
-  navigator.clipboard.writeText(copyText.value);
-}
+  let text = document.getElementById('myText').innerHTML;
+  const copyContent = async () => {
+    try {
+      await navigator.clipboard.writeText(text);
+      console.log('Content copied to clipboard');
+    } catch (err) {
+      console.error('Failed to copy: ', err);
+    }
+  }
 </script>
