@@ -1,4 +1,4 @@
-document.getElementById("").innerHTML = "";
+document.getElementById("aaaa").innerHTML = "";
 document.getElementById("").innerHTML = "";
 document.getElementById("").innerHTML = "";
 document.getElementById("").innerHTML = "";
