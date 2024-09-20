@@ -1,1 +1,1 @@
-document.getElementById("001").innerHTML = "Qur‘oni Karim";
+document.getElementById("001").innerHTML = "Qur‘oni Karim ma‘nolari tarjimasi";
