@@ -1,5 +1,5 @@
-document.getElementById("aaaa").innerHTML = "";
-document.getElementById("").innerHTML = "";
+document.getElementById("aaaa").innerHTML = "Bismillahir rohmanir rohiym";
+document.getElementById("aaab").innerHTML = "";
 document.getElementById("").innerHTML = "";
 document.getElementById("").innerHTML = "";
 document.getElementById("").innerHTML = "";
