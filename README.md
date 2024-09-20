@@ -1,2 +1,2 @@
 # index
-www.uralbek.uz sayti uchun DOM
+<a href="https://uralbek.netlify.app/">www.uralbek.uz</a> sayti uchun DOM
