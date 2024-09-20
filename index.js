@@ -1,0 +1,1 @@
+document.getElementById("001").innerHTML = "Qur‘oni Karim";
